@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Nhật Hòa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> HoaaVn- = Player Valorant, League of Legend, Minecraft, Roblox,... 🌻  
 ## About me ( về tôi )
 
-- Xin chào! Mình tên là Nhật Hòa, tên đầy đủ là Châu Nhật Hòa ( anh chàng chuyên IT đẹp trai:)) ), học sinh lớp 8a1 trường THCS & THPT Phan Thị Ràng ( Hòn Đất, Kiên Giang ). Mình là người vui vẻ, hòa đồng và rất thích tham gia các hoạt động tập thể. Mình đam mê thể thao và tham gia một số câu lạc bộ tại trường. Ngoài giờ học, mình cũng thích đọc sách và đi du lịch khám phá những địa điểm mới. Mình hy vọng trong năm học này sẽ đạt được kết quả tốt và rèn luyện thêm kỹ năng sống.
+- Xin chào! Mình tên là Nhật Hòa, tên đầy đủ là Châu Nhật Hòa ( anh chàng chuyên IT đẹp trai:)) ) được sinh ra và lớn lên ở Việt Nam, học sinh lớp 8a1 trường THCS & THPT Phan Thị Ràng ( Hòn Đất, Kiên Giang ). Mình là người vui vẻ, hòa đồng và rất thích tham gia các hoạt động tập thể. Mình đam mê thể thao và tham gia một số câu lạc bộ tại trường. Ngoài giờ học, mình cũng thích đọc sách và đi du lịch khám phá những địa điểm mới. Mình hy vọng trong năm học này sẽ đạt được kết quả tốt và rèn luyện thêm kỹ năng sống.
 - 
 🔭 Đam mê một điều gì đó : Cầu lông 🏸
 

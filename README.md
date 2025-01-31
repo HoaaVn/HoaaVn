@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
 </tr>
 <table>
-![coding-freak](https://github.com/user-attachments/assets/2b4ac79a-dd06-4140-b9df-1059bda2bfb6)
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

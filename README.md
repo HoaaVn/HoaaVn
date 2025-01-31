@@ -1,3 +1,4 @@
+![coding-freak](https://github.com/user-attachments/assets/6b7cad16-b18a-45f3-9e84-58150005ce11)
 ## Hi there 👋
 
 <!--

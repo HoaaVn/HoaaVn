@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 
 ⭐ Môn thể thao yêu thích : Cờ vua, cầu lông, xe đạp, chạy bộ,...😅
 
-### :zap: GitHub Stats![coding-freak](https://github.com/user-attachments/assets/fa066d02-a91b-4c6d-b61c-b0b0eed84358)
+### :zap: GitHub Stats
 
 
 <table>
 <tr>
-  <td width="48%">
+  <td width="48%">![coding-freak](https://github.com/user-attachments/assets/9d44be58-84c5-466a-95d4-24609d051c77)
+
     <img src="https://github-readme-stats.vercel.app/api?username=ThanhLa1802&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLa1802&layout=compact&show_icons=true&hide_border=true" />
   </td>

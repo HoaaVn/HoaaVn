@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ## Một số hình ảnh về sở thích của mình: 😋
 
-![5101a513-aa59-42fc-a4d7-01ffa5ab53a9](https://github.com/user-attachments/assets/717fb305-9751-4a8a-b6a3-ce2e9a678906)![Uploading 1d70bd0d-91d4-4c5b-ad1c-56f659c0d04c.jpg…]()
+![5101a513-aa59-42fc-a4d7-01ffa5ab53a9](https://github.com/user-attachments/assets/3fb4a43a-92b7-4a9a-aedc-0dae0ac08124)
+
 
 
 

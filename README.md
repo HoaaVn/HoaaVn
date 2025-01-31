@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 
 ⭐ Môn thể thao yêu thích : Cờ vua, cầu lông, xe đạp, chạy bộ,...😅
 
+### 📺 Nền tảng xã hội: 
+
+-Tiktok: https://www.tiktok.com/@femaleobjectt
+
+-Youtube: https://www.youtube.com/@hoanhat7859
+
+-Roblox account: x_xQv (Ryuk)
 
 ### :zap: Chỉ số Github của mình ( có thể gọi là thông thạo )
 
@@ -38,16 +45,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
 
 ---
-
-### 📺 Nền tảng xã hội: 
-
--Tiktok: https://www.tiktok.com/@femaleobjectt
-
--Youtube: https://www.youtube.com/@hoanhat7859
-
--Roblox account: x_xQv (Ryuk)
-
-### 📫 Contact me via:
+### 📫 Liên Hệ:
 - EMAIL: hoa3082011@gmail.com
 - Zalo: 0846227445
 - Discord : hoanhat3008

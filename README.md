@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 
 ⭐ Môn thể thao yêu thích : Cờ vua, cầu lông, xe đạp, chạy bộ,...😅
 
-## Một số hình ảnh về sở thích của mình: 😋
-
-![5101a513-aa59-42fc-a4d7-01ffa5ab53a9](https://github.com/user-attachments/assets/3fb4a43a-92b7-4a9a-aedc-0dae0ac08124)
-
 
 ### :zap: GitHub Stats
 ![coding-freak](https://github.com/user-attachments/assets/a57613ff-9fde-42d7-a04d-8104aa569058)

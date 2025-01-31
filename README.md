@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 ⭐ Môn thể thao yêu thích : Cờ vua, cầu lông, xe đạp, chạy bộ,...😅
 
-### :zap: GitHub Stats
+### :zap: GitHub Stats![coding-freak](https://github.com/user-attachments/assets/fa066d02-a91b-4c6d-b61c-b0b0eed84358)
+
 
 <table>
 <tr>

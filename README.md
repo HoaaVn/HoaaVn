@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### Hi, I'm Nhật Hòa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [Nhật Hòa][website]= Software Engineer + Gamer Minecraft - Roblox 🌻  
 
 
-- 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
-- ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
+🔭 Đam mê một điều gì đó : Cầu lông 🏸
+💪 Mục tiêu năm 2025: Tìm hiểu nhiều thứ về cầu lông, hoàn thiện bản thân!
+⭐ Môn thể thao yêu thích : Cờ vua, cầu lông, xe đạp, chạy bộ,...😅
 
 ### :zap: GitHub Stats
 

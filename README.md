@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm Nhật Hòa <img src="[" width="25px"> -  [Hòa IT] = Software Engineer + Gamer Minecraft - Roblox 🌻  
+### Hi, I'm Nhật Hòa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [THÀNH IT][website]= Software Engineer + Gamer Minecraft - Roblox 🌻  
 
 
 - 🔭 Passion in something ... (secret😊)

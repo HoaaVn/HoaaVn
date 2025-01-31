@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-  <td width="48%">![coding-freak](https://github.com/user-attachments/assets/9d44be58-84c5-466a-95d4-24609d051c77)
+  <td width="48%">
 
     <img src="https://github-readme-stats.vercel.app/api?username=ThanhLa1802&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLa1802&layout=compact&show_icons=true&hide_border=true" />

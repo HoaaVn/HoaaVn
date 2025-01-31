@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ### :zap: GitHub Stats
 ![coding-freak](https://github.com/user-attachments/assets/a57613ff-9fde-42d7-a04d-8104aa569058)
-
 ![1_2M7O71a5-r7zYbm2Sr6mYQ](https://github.com/user-attachments/assets/e8650037-afd4-4edd-978b-1e877df9185a)
 
 

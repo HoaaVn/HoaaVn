@@ -27,15 +27,8 @@ Here are some ideas to get you started:
 ### :zap: GitHub Stats
 ![coding-freak](https://github.com/user-attachments/assets/a57613ff-9fde-42d7-a04d-8104aa569058)
 
-<table>
-<tr>
-  <td width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThanhLa1802&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLa1802&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
-</tr>
-<table>
+![1_2M7O71a5-r7zYbm2Sr6mYQ](https://github.com/user-attachments/assets/e8650037-afd4-4edd-978b-1e877df9185a)
+
 
 
 ### Languages and Tools:
